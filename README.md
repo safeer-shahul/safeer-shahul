@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @safeer-shahul
 - 👀 I’m interested in Designing/Coding
 - 🌱 I’m currently learning MCA 
-- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me safeershahul.cv@gmail.com
 
 <!---
