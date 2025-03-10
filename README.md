@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safeer-shahul
 - 👀 I’m interested in Designing/Coding
-- 🌱 Angular / React/ NextJS/ NodeJS 
+- 🌱 Angular / React / NextJS / NodeJS 
 - 📫 How to reach me safeershahul.cv@gmail.com
 
 <!---
